@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="ejercicio/ejercicio6.csproj" Id="6119ebed-2893-4f6c-8464-cbfe33904379" />
+  <Project Path="ejercicio1/ejercicio1.csproj" Id="078c5946-6c18-42f8-b58d-e3e9802b7fc7" />
+  <Project Path="ejercicio2/ejercicio2.csproj" Id="541ba51e-1027-4e0d-8fc9-35edbd829ab0" />
+  <Project Path="ejercicio3/ejercicio3.csproj" Id="2549e4be-b128-4e73-82f5-ddfc476b976d" />
+  <Project Path="ejercicio5/ejercicio5.csproj" Id="24bac7db-81cf-4b83-bf9d-d4da13780ec8" />
+  <Project Path="ejercico4/ejercicio4.csproj" Id="28675c40-c820-4f46-a74f-384d5209379f" />
+</Solution>

@@ -1,0 +1,7 @@
+C:\ESCUELA\proyectos\TP2\ejercico4\bin\Debug\ejercico4.exe.config
+C:\ESCUELA\proyectos\TP2\ejercico4\bin\Debug\ejercico4.exe
+C:\ESCUELA\proyectos\TP2\ejercico4\bin\Debug\ejercico4.pdb
+C:\ESCUELA\proyectos\TP2\ejercico4\obj\Debug\ejercico4.csproj.AssemblyReference.cache
+C:\ESCUELA\proyectos\TP2\ejercico4\obj\Debug\ejercico4.csproj.CoreCompileInputs.cache
+C:\ESCUELA\proyectos\TP2\ejercico4\obj\Debug\ejercico4.exe
+C:\ESCUELA\proyectos\TP2\ejercico4\obj\Debug\ejercico4.pdb

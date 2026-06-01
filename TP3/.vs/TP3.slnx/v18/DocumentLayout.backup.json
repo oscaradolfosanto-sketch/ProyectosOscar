@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ESCUELA\\proyectos\\TP3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04C05171-EEFA-4320-B9C5-1120A893B0BB}|jercicio7\\jercicio7.csproj|c:\\escuela\\proyectos\\tp3\\jercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C05171-EEFA-4320-B9C5-1120A893B0BB}|jercicio7\\jercicio7.csproj|solutionrelative:jercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F0286D-9EE9-434C-BDF5-5636F620655C}|ejercicio6\\ejercicio6.csproj|c:\\escuela\\proyectos\\tp3\\ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F0286D-9EE9-434C-BDF5-5636F620655C}|ejercicio6\\ejercicio6.csproj|solutionrelative:ejercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ESCUELA\\proyectos\\TP3\\jercicio7\\Program.cs",
+              "RelativeDocumentMoniker": "jercicio7\\Program.cs",
+              "ToolTip": "C:\\ESCUELA\\proyectos\\TP3\\jercicio7\\Program.cs*",
+              "RelativeToolTip": "jercicio7\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T12:39:39.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ESCUELA\\proyectos\\TP3\\ejercicio6\\Program.cs",
+              "RelativeDocumentMoniker": "ejercicio6\\Program.cs",
+              "ToolTip": "C:\\ESCUELA\\proyectos\\TP3\\ejercicio6\\Program.cs",
+              "RelativeToolTip": "ejercicio6\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAhwB8AAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:48:13.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

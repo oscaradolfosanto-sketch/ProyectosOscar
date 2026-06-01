@@ -1,0 +1,45 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+// Crear una funcion EsPalindromo que recibe una cadena y devuelve true si es un palidromo (se lee igual de izquierda a derecha y de derecha a izquierda, ignorando mayuscula y espacios)
+namespace ejercicio2
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            bool esPalindromo;
+            string cadena;
+
+
+            Console.WriteLine("Ingrese una cadena: ");
+            cadena = Console.ReadLine();
+
+            esPalindromo = EsPalindromo(cadena);
+            if (esPalindromo == true)
+            {
+                Console.WriteLine($"La cadena '{cadena}' es un palindromo.");
+
+            }
+            else
+            {
+                Console.WriteLine($"La cadena '{cadena}' no es un palindromo.");
+            }
+
+
+        }
+        public static bool EsPalindromo(string cadena)
+        {
+            if (string.IsNullOrWhiteSpace(cadena))
+                return true;
+
+            string cadenaSinEspacios = cadena.Replace(" ", "").ToLower();
+            string invertida = new string(cadenaSinEspacios.Reverse().ToArray());
+            return cadenaSinEspacios == invertida;
+
+        }
+        //Me rendi y me ayude de la ia por que ni idea de como hacerlo pofre :(
+    }
+}
